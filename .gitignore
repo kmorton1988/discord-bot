@@ -1,6 +1,7 @@
 # Project-Specific
 config.json
 db.js
+node_modules
 
 # Logs
 logs

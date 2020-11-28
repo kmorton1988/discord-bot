@@ -1,8 +1,0 @@
-{
-    "prefix": ".",
-    "token": "Nzc3NjMxOTY2ODA3ODUxMDU5.X7GQNA.t1D4hjT2mWhVFCkkkGUJa0-jlEE",
-    "dburi": "mongodb+srv://localhost:27017/?poolSize=20&w=majority";,
-    "dbuser": "discord",
-    "dbpass": "48ehdgjbn548eitfhnvu",
-    "dbname": "discordbot"
-}
